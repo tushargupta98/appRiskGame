@@ -1,0 +1,11 @@
+[Map]
+[Continents]
+Suda=
+Paru=
+[Territories]
+ada,12,34,Suda,pino,ashia
+pino,50,76,Suda,ada,ashia
+ashia,79,63,Suda,pino,ada
+
+dako,90,85,Paru,ashia,passo
+passo,120,95,Paru,dako

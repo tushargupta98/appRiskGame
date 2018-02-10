@@ -1,0 +1,10 @@
+[Map]
+Suda=5
+Paru=3
+[Territories]
+ada,12,34,pino,ashia
+pino,50,76,ada,ashia
+ashia,79,63,pino,ada
+
+dako,90,85,ashia,passo
+passo,120,95,dako
